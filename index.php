@@ -2,6 +2,6 @@
 
 echo "Hello World. Hello SonicSense wa.";
 
-echo "Mihir is awesome";
+echo "Preston is awesome";
 
 ?>
